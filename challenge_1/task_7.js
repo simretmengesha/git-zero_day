@@ -1,4 +1,3 @@
-#!/bin/bash
 let i=10;
 let sum = 0;
 for(i=10 ; i<30 ; i++){
